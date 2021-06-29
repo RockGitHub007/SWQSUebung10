@@ -1,1 +1,2 @@
 Dies ist File 2
+Änderung im Branch NewFeature in File2.txt.
